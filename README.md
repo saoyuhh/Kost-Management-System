@@ -29,5 +29,3 @@ The system is built on a normalized relational schema with 5 core entities to en
 
 This website was created by Michelle and Shanty.
 
-
-Developed by Group 10 | Faculty of Computer Science, President University.
