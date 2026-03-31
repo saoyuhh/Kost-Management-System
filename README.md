@@ -2,11 +2,11 @@
 A web-based management system designed to digitalize boarding house operations, from tenant tracking to maintenance requests. Developed as a final project for the Database System course.
 
 🌟 Key Features
-Comprehensive Dashboard: Real-time overview of room availability and payment status.
-Resident Management: Digitalized records for tenant profiles and stay durations.
-Automated Payment Tracking: Systematized monitoring of monthly payments with status updates (Pending/Confirmed).
-Maintenance Request System: Integrated workflow for tenants to report issues (Plumbing, Electrical, etc.) with real-time status tracking.
-Secure Authentication: Multi-user login system for administrative and resident access.
+1.Comprehensive Dashboard: Real-time overview of room availability and payment status.
+2.Resident Management: Digitalized records for tenant profiles and stay durations.
+3.Automated Payment Tracking: Systematized monitoring of monthly payments with status updates (Pending/Confirmed).
+4.Maintenance Request System: Integrated workflow for tenants to report issues (Plumbing, Electrical, etc.) with real-time status tracking.
+5.Secure Authentication: Multi-user login system for administrative and resident access.
 
 🛠️ Technical Stack
 Frontend: HTML5, CSS3, Bootstrap (Responsive UI)
